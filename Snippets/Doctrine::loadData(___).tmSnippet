@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Doctrine::loadData(${1:\$fixturesPath})</string>
+	<key>name</key>
+	<string>Doctrine::loadData(...)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>dload</string>
+	<key>uuid</key>
+	<string>69AA7A3E-544B-4EF5-AEFB-85464236847C</string>
+</dict>
+</plist>

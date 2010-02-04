@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-&gt;findOneBy${1:Name}(${2:'value'})</string>
+	<key>name</key>
+	<string>-&gt;findOneBy...(...)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>-&gt;fob</string>
+	<key>uuid</key>
+	<string>3DE36A09-4E90-4B99-A2DE-988E2FC074DB</string>
+</dict>
+</plist>

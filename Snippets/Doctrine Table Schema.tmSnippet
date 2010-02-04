@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>---
+${1:${TM_FILENAME/(.*).yml/$1/}}:${2:
+  actAs:
+    ${3:Timestampable:    ~}$4}
+  columns:
+    $0${7:
+  relations:
+    $8}${5:
+  options:
+    $6}</string>
+	<key>name</key>
+	<string>Doctrine Table Schema</string>
+	<key>scope</key>
+	<string>source.yaml</string>
+	<key>tabTrigger</key>
+	<string>dt</string>
+	<key>uuid</key>
+	<string>9C5B551B-0B18-4E35-873E-6077CDEC3E9D</string>
+</dict>
+</plist>

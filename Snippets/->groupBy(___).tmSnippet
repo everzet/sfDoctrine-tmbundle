@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-&gt;groupBy(${1:'created_at'})$0</string>
+	<key>name</key>
+	<string>-&gt;groupBy(...)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>-&gt;gro</string>
+	<key>uuid</key>
+	<string>9A112438-D505-4B66-B625-F09FDB12DF26</string>
+</dict>
+</plist>

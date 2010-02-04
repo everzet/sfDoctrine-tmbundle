@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Doctrine::loadModels(${1:\$modelsPath})</string>
+	<key>name</key>
+	<string>Doctrine::loadModels(...)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>dlm</string>
+	<key>uuid</key>
+	<string>D24A51D6-FE2C-48AC-B114-767957CA0B7E</string>
+</dict>
+</plist>

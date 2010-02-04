@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Doctrine_Manager::getInstance()-&gt;getConnection(${1:'name'})</string>
+	<key>name</key>
+	<string>Doctrine_Manager::getInstance()-&gt;getConnection(...)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>dmgc</string>
+	<key>uuid</key>
+	<string>B249360D-31E9-45D5-B574-CFD54FF583F5</string>
+</dict>
+</plist>

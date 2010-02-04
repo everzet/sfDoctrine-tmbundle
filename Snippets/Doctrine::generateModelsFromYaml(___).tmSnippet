@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Doctrine::generateModelsFromYaml(${1:\$schemasPath}, ${2:\$modelsPath})</string>
+	<key>name</key>
+	<string>Doctrine::generateModelsFromYaml(...)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>dgmfy</string>
+	<key>uuid</key>
+	<string>720EFE8F-830E-4524-BD51-9F5608E181E1</string>
+</dict>
+</plist>

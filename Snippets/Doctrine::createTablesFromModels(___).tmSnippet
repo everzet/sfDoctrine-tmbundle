@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Doctrine::createTablesFromModels(${1:\$modelsPath})</string>
+	<key>name</key>
+	<string>Doctrine::createTablesFromModels(...)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>dctfm</string>
+	<key>uuid</key>
+	<string>59562CB1-51A2-449A-B3BC-B4546598D0D3</string>
+</dict>
+</plist>

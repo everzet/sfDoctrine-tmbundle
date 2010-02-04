@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Doctrine_Manager::connection(${1:\$dsn}, ${2:'connName'})</string>
+	<key>name</key>
+	<string>Doctrine_Manager::connection(...)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>dmc</string>
+	<key>uuid</key>
+	<string>D86A093D-664A-4145-BCFB-11C5F70DF955</string>
+</dict>
+</plist>

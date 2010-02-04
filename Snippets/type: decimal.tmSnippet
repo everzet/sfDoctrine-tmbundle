@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>type:           decimal${1:(${2:18})}
+$0</string>
+	<key>name</key>
+	<string>type: decimal</string>
+	<key>scope</key>
+	<string>source.yaml</string>
+	<key>tabTrigger</key>
+	<string>t:dec</string>
+	<key>uuid</key>
+	<string>B6FC45A6-DBEF-454B-B7E8-34AE0DCCB1D1</string>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:RelationName}:${2:
+  class:          ${3:RelationModel}}
+  local:          ${4:local_field_id}${5:
+  foreign:        ${6:foreign_field_id}}${7:
+  refClass:       ${8:RefModel}}
+  foreignAlias:   ${9:CurrentModels}${10:
+  foreignType:    ${11:many}}${12:
+  type:           ${13:many}}</string>
+	<key>name</key>
+	<string>Relation</string>
+	<key>scope</key>
+	<string>source.yaml</string>
+	<key>tabTrigger</key>
+	<string>rel</string>
+	<key>uuid</key>
+	<string>83E7E952-17B3-4DEE-9389-E945217C2188</string>
+</dict>
+</plist>

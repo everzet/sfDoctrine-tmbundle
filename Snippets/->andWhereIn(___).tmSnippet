@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-&gt;andWhereIn(${1:'column'}, ${2:\$values})$0</string>
+	<key>name</key>
+	<string>-&gt;andWhereIn(...)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>-&gt;&amp;wi</string>
+	<key>uuid</key>
+	<string>953E7F7B-B6F2-468C-BD69-01ABB6E9FA07</string>
+</dict>
+</plist>
